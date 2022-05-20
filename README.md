@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Sam Kohl</h1>
 <h3 align="center">I'm a passionate Full-Stack Engineer and Singer-Songwriter living in San Francisco, CA! After 10+ years previously working in multiple facets of the Music Industry, I've leaned into the programing skills I picked up while trying to improve upon existing Ticketing Software and found myself Engineering as a career!</h3>
 
-<span align="center">📫 How to reach me **samkohl@samkohl.com**</span>
+<p align="center">📫 You can reach me at **samkohl@samkohl.com**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
